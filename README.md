@@ -26,6 +26,8 @@ O cruzamento das bases revelou insights estratégicos para a operação, detalha
 1.  **Concentração de Risco:** Alta demanda no contrato corporativo "Monstros S.A." (faixa 41-50 anos).
 2.  **Oportunidade Digital:** Forte volume de atendimentos de Fisioterapia Presencial, apontando espaço para migração de triagens para a Telemedicina.
 3.  **Gargalo Operacional:** Pico atípico de uso da unidade Corvinal aos Domingos (16h).
+
+
 *Nota de Governança:* Durante o ETL, foi identificada a ausência da variável "Gênero" na base original, gerando uma oportunidade de melhoria na captura de dados no onboarding.
 
 ---
